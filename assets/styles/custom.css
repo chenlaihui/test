@@ -1,0 +1,19 @@
+/* Global Font Override */
+body {
+    font-family: "PingFang SC", "Noto Sans SC", "Inter", sans-serif !important;
+}
+
+/* Premium Enhancements */
+.rounded-card {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+.bg-\[\#f0f2f5\] {
+    background-color: #f5f5f5 !important;
+}
+
+/* Ensure smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
